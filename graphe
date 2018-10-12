@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Graphe</title>
+    <link href="./css/style.css" type="text/css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+  </head>
+  <body>
+  <div id="drawing">
+  </div>
+  <div class="container">
+    <div class="title-block">
+      <div class="row">
+        <div class = "col-6">
+          <h1 class="title">graphe</h1>
+        </div>
+      </div>
+      <div class="row justify-content-end">
+        <div class="col-8">
+          <h2 class="subtitle">A PLATFORM FOR THE GEO-GRAPHIC</h2>
+        </div>
+      </div>
+      <!-- <div class="row justify-content-end">
+        <div class="col-12">
+          <h2 class="submit"><a href="mailto:aag@geo-graphe.org">Submit AAG abstract to aag@geo-graphe.org</a></h2>
+        </div>
+      </div> -->
+    </div>
+  </div>
+  <script src="js/brownian.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.js"></script>
+
+  </body>
+</html>
